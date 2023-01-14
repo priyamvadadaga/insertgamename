@@ -1,6 +1,6 @@
 # insertgamename
-Introduction to Computer Science, Final Project, Fall 2020
-A 3 level game made on Processing with Python 3
+Introduction to Computer Science, Final Project, Fall 2020.
+A 3 level game made on Processing with Python 3.
 
 ____________________
 
