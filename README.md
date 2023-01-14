@@ -1,7 +1,6 @@
 # insertgamename
-A 3 level game made on Processing with Python 3. 
-
 Introduction to Computer Science, Final Project, Fall 2020
+A 3 level game made on Processing with Python 3
 
 ____________________
 
@@ -10,7 +9,7 @@ A zoom-themed game where the user will be able to walk through the window and co
 
 ___
 
-How to Play
+## How to Play ##
 
 1. Choose your sprite.
 2. Use arrow keys to move around. 
@@ -20,21 +19,21 @@ How to Play
 
 ___
 
-Built With
+## Built With ##
 
 * Processing - https://py.processing.org
 * Python 3 - https://docs.python.org/3/
 
 ___
 
-Authors
+## Authors ##
 
 - Priyamvada Daga - psd7123@nyu.edu
 - Aigerim Zhusubalieva - az2177@nyu.edu
 
 ___
 
-Acknowledgments
+## Acknowledgments ##
 
 Thanks to our course professor, Prof Thomas Pötsch, and TA, Hazem Ibrahim.
 Thanks to 2020 and Zoom for inspiring us <3.
